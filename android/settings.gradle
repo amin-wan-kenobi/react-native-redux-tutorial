@@ -1,0 +1,3 @@
+rootProject.name = 'cyclefinder_new'
+
+include ':app'

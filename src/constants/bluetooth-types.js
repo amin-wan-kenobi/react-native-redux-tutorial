@@ -1,0 +1,2 @@
+export const SEARCH_FOR_LOCKS = 'SEARCH_FOR_LOCKS';
+export const CONNECT_LOCKS = 'CONNECT_LOCKS';
